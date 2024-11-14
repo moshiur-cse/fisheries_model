@@ -1,0 +1,545 @@
+﻿THAID,THACODE,DIVNAME,DISTNAME,THANAME
+1004090,100409,Barisal,Barguna,Amtali
+1004190,100419,Barisal,Barguna,Bamna
+1004280,100428,Barisal,Barguna,Barguna Sadar
+1004470,100447,Barisal,Barguna,Betagi
+1004850,100485,Barisal,Barguna,Patharghata
+1006020,100602,Barisal,Barisal,Agailjhara
+1006030,100603,Barisal,Barisal,Babuganj
+1006070,100607,Barisal,Barisal,Bakerganj
+1006100,100610,Barisal,Barisal,Banari Para
+1006320,100632,Barisal,Barisal,Gaurnadi
+1006360,100636,Barisal,Barisal,Hizla
+1006510,100651,Barisal,Barisal,Barisal Sadar (Kotwali)
+1006620,100662,Barisal,Barisal,Mehendiganj
+1006690,100669,Barisal,Barisal,Muladi
+1006940,100694,Barisal,Barisal,Wazirpur
+1009180,100918,Barisal,Bhola,Bhola Sadar
+1009210,100921,Barisal,Bhola,Burhanuddin
+1009250,100925,Barisal,Bhola,Char Fasson
+1009290,100929,Barisal,Bhola,Daulatkhan
+1009540,100954,Barisal,Bhola,Lalmohan
+1009650,100965,Barisal,Bhola,Manpura
+1009910,100991,Barisal,Bhola,Tazumuddin
+1042400,104240,Barisal,Jhalokati,Jhalokati Sadar
+1042430,104243,Barisal,Jhalokati,Kanthalia
+1042730,104273,Barisal,Jhalokati,Nalchity
+1042840,104284,Barisal,Jhalokati,Rajapur
+1078380,107838,Barisal,Patuakhali,Bauphal
+1078520,107852,Barisal,Patuakhali,Dashmina
+1078550,107855,Barisal,Patuakhali,Dumki
+1078570,107857,Barisal,Patuakhali,Galachipa
+1078660,107866,Barisal,Patuakhali,Kala Para
+1078760,107876,Barisal,Patuakhali,Mirzaganj
+1078950,107895,Barisal,Patuakhali,Patuakhali Sadar
+1079140,107914,Barisal,Pirojpur,Bhandaria
+1079470,107947,Barisal,Pirojpur,Kawkhali
+1079580,107958,Barisal,Pirojpur,Mathbaria
+1079760,107976,Barisal,Pirojpur,Nazirpur
+1079800,107980,Barisal,Pirojpur,Pirojpur Sadar
+1079870,107987,Barisal,Pirojpur,Nesarabad (Swarupkati)
+1079900,107990,Barisal,Pirojpur,Zianagar
+2003040,200304,Chittagong,Bandarban,Alikadam
+2003140,200314,Chittagong,Bandarban,Bandarban Sadar
+2003510,200351,Chittagong,Bandarban,Lama
+2003730,200373,Chittagong,Bandarban,Naikhongchhari
+2003890,200389,Chittagong,Bandarban,Rowangchhari
+2003910,200391,Chittagong,Bandarban,Ruma
+2003950,200395,Chittagong,Bandarban,Thanchi
+2012020,201202,Chittagong,Brahamanbaria,Akhaura
+2012040,201204,Chittagong,Brahamanbaria,Banchharampur
+2012070,201207,Chittagong,Brahamanbaria,Bijoynagar
+2012130,201213,Chittagong,Brahamanbaria,Brahmanbaria Sadar
+2012330,201233,Chittagong,Brahamanbaria,Ashuganj
+2012630,201263,Chittagong,Brahamanbaria,Kasba
+2012850,201285,Chittagong,Brahamanbaria,Nabinagar
+2012900,201290,Chittagong,Brahamanbaria,Nasirnagar
+2012940,201294,Chittagong,Brahamanbaria,Sarail
+2013220,201322,Chittagong,Chandpur,Chandpur Sadar
+2013450,201345,Chittagong,Chandpur,Faridganj
+2013470,201347,Chittagong,Chandpur,Haim Char
+2013490,201349,Chittagong,Chandpur,Hajiganj
+2013580,201358,Chittagong,Chandpur,Kachua
+2013760,201376,Chittagong,Chandpur,Matlab Dakshin
+2013790,201379,Chittagong,Chandpur,Matlab Uttar
+2013950,201395,Chittagong,Chandpur,Shahrasti
+2015040,201504,Chittagong,Chittagong,Anowara
+2015060,201506,Chittagong,Chittagong,Bayejid Bostami
+2015080,201508,Chittagong,Chittagong,Banshkhali
+2015100,201510,Chittagong,Chittagong,Bakalia
+2015120,201512,Chittagong,Chittagong,Boalkhali
+2015180,201518,Chittagong,Chittagong,Chandanaish
+2015190,201519,Chittagong,Chittagong,Chandgaon
+2015200,201520,Chittagong,Chittagong,Chittagong Port
+2015280,201528,Chittagong,Chittagong,Double Mooring
+2015330,201533,Chittagong,Chittagong,Fatikchhari
+2015350,201535,Chittagong,Chittagong,Halishahar
+2015370,201537,Chittagong,Chittagong,Hathazari
+2015410,201541,Chittagong,Chittagong,Kotwali
+2015430,201543,Chittagong,Chittagong,Khulshi
+2015470,201547,Chittagong,Chittagong,Lohagara
+2015530,201553,Chittagong,Chittagong,Mirsharai
+2015550,201555,Chittagong,Chittagong,Pahartali
+2015570,201557,Chittagong,Chittagong,Panchlaish
+2015610,201561,Chittagong,Chittagong,Patiya
+2015650,201565,Chittagong,Chittagong,Patenga
+2015700,201570,Chittagong,Chittagong,Rangunia
+2015740,201574,Chittagong,Chittagong,Raozan
+2015780,201578,Chittagong,Chittagong,Sandwip
+2015820,201582,Chittagong,Chittagong,Satkania
+2015860,201586,Chittagong,Chittagong,Sitakunda
+2019090,201909,Chittagong,Comilla,Barura
+2019150,201915,Chittagong,Comilla,Brahman Para
+2019180,201918,Chittagong,Comilla,Burichang
+2019270,201927,Chittagong,Comilla,Chandina
+2019310,201931,Chittagong,Comilla,Chauddagram
+2019330,201933,Chittagong,Comilla,Comilla Sadar Dakshin
+2019360,201936,Chittagong,Comilla,Daudkandi
+2019400,201940,Chittagong,Comilla,Debidwar
+2019540,201954,Chittagong,Comilla,Homna
+2019670,201967,Chittagong,Comilla,Comilla Adarsha Sadar
+2019720,201972,Chittagong,Comilla,Laksam
+2019740,201974,Chittagong,Comilla,Manoharganj
+2019750,201975,Chittagong,Comilla,Meghna
+2019810,201981,Chittagong,Comilla,Muradnagar
+2019870,201987,Chittagong,Comilla,Nangalkot
+2019940,201994,Chittagong,Comilla,Titas
+2022160,202216,Chittagong,Cox'S Bazar,Chakaria
+2022240,202224,Chittagong,Cox'S Bazar,Cox'S Bazar Sadar
+2022450,202245,Chittagong,Cox'S Bazar,Kutubdia
+2022490,202249,Chittagong,Cox'S Bazar,Maheshkhali
+2022560,202256,Chittagong,Cox'S Bazar,Pekua
+2022660,202266,Chittagong,Cox'S Bazar,Ramu
+2022900,202290,Chittagong,Cox'S Bazar,Teknaf
+2022940,202294,Chittagong,Cox'S Bazar,Ukhia
+2030140,203014,Chittagong,Feni,Chhagalnaiya
+2030250,203025,Chittagong,Feni,Daganbhuiyan
+2030290,203029,Chittagong,Feni,Feni Sadar
+2030410,203041,Chittagong,Feni,Fulgazi
+2030510,203051,Chittagong,Feni,Parshuram
+2030940,203094,Chittagong,Feni,Sonagazi
+2046430,204643,Chittagong,Khagrachhari,Dighinala
+2046490,204649,Chittagong,Khagrachhari,Khagrachhari Sadar
+2046610,204661,Chittagong,Khagrachhari,Lakshmichhari
+2046650,204665,Chittagong,Khagrachhari,Mahalchhari
+2046670,204667,Chittagong,Khagrachhari,Manikchhari
+2046700,204670,Chittagong,Khagrachhari,Matiranga
+2046770,204677,Chittagong,Khagrachhari,Panchhari
+2046800,204680,Chittagong,Khagrachhari,Ramgarh
+2051330,205133,Chittagong,Lakshmipur,Kamalnagar
+2051430,205143,Chittagong,Lakshmipur,Lakshmipur Sadar
+2051580,205158,Chittagong,Lakshmipur,Roypur
+2051650,205165,Chittagong,Lakshmipur,Ramganj
+2051730,205173,Chittagong,Lakshmipur,Ramgati
+2075070,207507,Chittagong,Noakhali,Begumganj
+2075100,207510,Chittagong,Noakhali,Chatkhil
+2075210,207521,Chittagong,Noakhali,Companiganj
+2075360,207536,Chittagong,Noakhali,Hatiya
+2075470,207547,Chittagong,Noakhali,Kabirhat
+2075800,207580,Chittagong,Noakhali,Senbagh
+2075830,207583,Chittagong,Noakhali,Sonaimuri
+2075850,207585,Chittagong,Noakhali,Subarnachar
+2075870,207587,Chittagong,Noakhali,Noakhali Sadar (Sudharam)
+2084070,208407,Chittagong,Rangamati,Baghai Chhari
+2084210,208421,Chittagong,Rangamati,Barkal
+2084250,208425,Chittagong,Rangamati,Kawkhali (Betbunia)
+2084290,208429,Chittagong,Rangamati,Belai Chhari
+2084360,208436,Chittagong,Rangamati,Kaptai
+2084470,208447,Chittagong,Rangamati,Jurai Chhari
+2084580,208458,Chittagong,Rangamati,Langadu
+2084750,208475,Chittagong,Rangamati,Naniarchar
+2084780,208478,Chittagong,Rangamati,Rajasthali
+2084870,208487,Chittagong,Rangamati,Rangamati Sadar
+3026020,302602,Dhaka,Dhaka,Adabor
+3026040,302604,Dhaka,Dhaka,Badda
+3026050,302605,Dhaka,Dhaka,Bangshal
+3026060,302606,Dhaka,Dhaka,Biman Bandar
+3026080,302608,Dhaka,Dhaka,Cantonment
+3026090,302609,Dhaka,Dhaka,Chak Bazar
+3026100,302610,Dhaka,Dhaka,Dakshinkhan
+3026110,302611,Dhaka,Dhaka,Darus Salam
+3026120,302612,Dhaka,Dhaka,Demra
+3026140,302614,Dhaka,Dhaka,Dhamrai
+3026160,302616,Dhaka,Dhaka,Dhanmondi
+3026180,302618,Dhaka,Dhaka,Dohar
+3026240,302624,Dhaka,Dhaka,Gendaria
+3026260,302626,Dhaka,Dhaka,Gulshan
+3026280,302628,Dhaka,Dhaka,Hazaribagh
+3026290,302629,Dhaka,Dhaka,Jatrabari
+3026300,302630,Dhaka,Dhaka,Kafrul
+3026320,302632,Dhaka,Dhaka,Kadamtali
+3026330,302633,Dhaka,Dhaka,Kalabagan
+3026340,302634,Dhaka,Dhaka,Kamrangir Char
+3026360,302636,Dhaka,Dhaka,Khilgaon
+3026370,302637,Dhaka,Dhaka,Khilkhet
+3026380,302638,Dhaka,Dhaka,Keraniganj
+3026400,302640,Dhaka,Dhaka,Kotwali
+3026420,302642,Dhaka,Dhaka,Lalbagh
+3026480,302648,Dhaka,Dhaka,Mirpur
+3026500,302650,Dhaka,Dhaka,Mohammadpur
+3026540,302654,Dhaka,Dhaka,Motijheel
+3026620,302662,Dhaka,Dhaka,Nawabganj
+3026630,302663,Dhaka,Dhaka,New Market
+3026640,302664,Dhaka,Dhaka,Pallabi
+3026650,302665,Dhaka,Dhaka,Paltan
+3026660,302666,Dhaka,Dhaka,Ramna
+3026670,302667,Dhaka,Dhaka,Rampura
+3026680,302668,Dhaka,Dhaka,Sabujbagh
+3026720,302672,Dhaka,Dhaka,Savar
+3026740,302674,Dhaka,Dhaka,Shah Ali
+3026750,302675,Dhaka,Dhaka,Shahbagh
+3026760,302676,Dhaka,Dhaka,Shyampur
+3026800,302680,Dhaka,Dhaka,Sher-e-bangla Nagar
+3026880,302688,Dhaka,Dhaka,Sutrapur
+3026900,302690,Dhaka,Dhaka,Tejgaon
+3026920,302692,Dhaka,Dhaka,Tejgaon Ind. Area
+3026930,302693,Dhaka,Dhaka,Turag
+3026950,302695,Dhaka,Dhaka,Uttara
+3026960,302696,Dhaka,Dhaka,Uttar Khan
+3029030,302903,Dhaka,Faridpur,Alfadanga
+3029100,302910,Dhaka,Faridpur,Bhanga
+3029180,302918,Dhaka,Faridpur,Boalmari
+3029210,302921,Dhaka,Faridpur,Char Bhadrasan
+3029470,302947,Dhaka,Faridpur,Faridpur Sadar
+3029560,302956,Dhaka,Faridpur,Madhukhali
+3029620,302962,Dhaka,Faridpur,Nagarkanda
+3029840,302984,Dhaka,Faridpur,Sadarpur
+3029900,302990,Dhaka,Faridpur,Saltha
+3033300,303330,Dhaka,Gazipur,Gazipur Sadar
+3033320,303332,Dhaka,Gazipur,Kaliakair
+3033340,303334,Dhaka,Gazipur,Kaliganj
+3033360,303336,Dhaka,Gazipur,Kapasia
+3033860,303386,Dhaka,Gazipur,Sreepur
+3035320,303532,Dhaka,Gopalganj,Gopalganj Sadar
+3035430,303543,Dhaka,Gopalganj,Kashiani
+3035510,303551,Dhaka,Gopalganj,Kotali Para
+3035580,303558,Dhaka,Gopalganj,Muksudpur
+3035910,303591,Dhaka,Gopalganj,Tungi Para
+3039070,303907,Dhaka,Jamalpur,Bakshiganj
+3039150,303915,Dhaka,Jamalpur,Dewanganj
+3039290,303929,Dhaka,Jamalpur,Islampur
+3039360,303936,Dhaka,Jamalpur,Jamalpur Sadar
+3039580,303958,Dhaka,Jamalpur,Madarganj
+3039610,303961,Dhaka,Jamalpur,Melandaha
+3039850,303985,Dhaka,Jamalpur,Sarishabari
+3048020,304802,Dhaka,Kishoreganj,Austagram
+3048060,304806,Dhaka,Kishoreganj,Bajitpur
+3048110,304811,Dhaka,Kishoreganj,Bhairab
+3048270,304827,Dhaka,Kishoreganj,Hossainpur
+3048330,304833,Dhaka,Kishoreganj,Itna
+3048420,304842,Dhaka,Kishoreganj,Karimganj
+3048450,304845,Dhaka,Kishoreganj,Katiadi
+3048490,304849,Dhaka,Kishoreganj,Kishoreganj Sadar
+3048540,304854,Dhaka,Kishoreganj,Kuliar Char
+3048590,304859,Dhaka,Kishoreganj,Mithamain
+3048760,304876,Dhaka,Kishoreganj,Nikli
+3048790,304879,Dhaka,Kishoreganj,Pakundia
+3048920,304892,Dhaka,Kishoreganj,Tarail
+3054400,305440,Dhaka,Madaripur,Kalkini
+3054540,305454,Dhaka,Madaripur,Madaripur Sadar
+3054800,305480,Dhaka,Madaripur,Rajoir
+3054870,305487,Dhaka,Madaripur,Shib Char
+3056100,305610,Dhaka,Manikganj,Daulatpur
+3056220,305622,Dhaka,Manikganj,Ghior
+3056280,305628,Dhaka,Manikganj,Harirampur
+3056460,305646,Dhaka,Manikganj,Manikganj Sadar
+3056700,305670,Dhaka,Manikganj,Saturia
+3056780,305678,Dhaka,Manikganj,Shibalaya
+3056820,305682,Dhaka,Manikganj,Singair
+3059240,305924,Dhaka,Munshiganj,Gazaria
+3059440,305944,Dhaka,Munshiganj,Lohajang
+3059560,305956,Dhaka,Munshiganj,Munshiganj Sadar
+3059740,305974,Dhaka,Munshiganj,Serajdikhan
+3059840,305984,Dhaka,Munshiganj,Sreenagar
+3059940,305994,Dhaka,Munshiganj,Tongibari
+3061130,306113,Dhaka,Mymensingh,Bhaluka
+3061160,306116,Dhaka,Mymensingh,Dhobaura
+3061200,306120,Dhaka,Mymensingh,Fulbaria
+3061220,306122,Dhaka,Mymensingh,Gaffargaon
+3061230,306123,Dhaka,Mymensingh,Gauripur
+3061240,306124,Dhaka,Mymensingh,Haluaghat
+3061310,306131,Dhaka,Mymensingh,Ishwarganj
+3061520,306152,Dhaka,Mymensingh,Mymensingh Sadar
+3061650,306165,Dhaka,Mymensingh,Muktagachha
+3061720,306172,Dhaka,Mymensingh,Nandail
+3061810,306181,Dhaka,Mymensingh,Phulpur
+3061940,306194,Dhaka,Mymensingh,Trishal
+3067020,306702,Dhaka,Narayanganj,Araihazar
+3067040,306704,Dhaka,Narayanganj,Sonargaon
+3067060,306706,Dhaka,Narayanganj,Bandar
+3067580,306758,Dhaka,Narayanganj,Narayanganj Sadar
+3067680,306768,Dhaka,Narayanganj,Rupganj
+3068070,306807,Dhaka,Narsingdi,Belabo
+3068520,306852,Dhaka,Narsingdi,Manohardi
+3068600,306860,Dhaka,Narsingdi,Narsingdi Sadar
+3068630,306863,Dhaka,Narsingdi,Palash
+3068640,306864,Dhaka,Narsingdi,Roypura
+3068760,306876,Dhaka,Narsingdi,Shibpur
+3072040,307204,Dhaka,Netrakona,Atpara
+3072090,307209,Dhaka,Netrakona,Barhatta
+3072180,307218,Dhaka,Netrakona,Durgapur
+3072380,307238,Dhaka,Netrakona,Khaliajuri
+3072400,307240,Dhaka,Netrakona,Kalmakanda
+3072470,307247,Dhaka,Netrakona,Kendua
+3072560,307256,Dhaka,Netrakona,Madan
+3072630,307263,Dhaka,Netrakona,Mohanganj
+3072740,307274,Dhaka,Netrakona,Netrokona Sadar
+3072830,307283,Dhaka,Netrakona,Purbadhala
+3082070,308207,Dhaka,Rajbari,Balia Kandi
+3082290,308229,Dhaka,Rajbari,Goalandaghat
+3082470,308247,Dhaka,Rajbari,Kalukhali
+3082730,308273,Dhaka,Rajbari,Pangsha
+3082760,308276,Dhaka,Rajbari,Rajbari Sadar
+3086140,308614,Dhaka,Shariatpur,Bhedarganj
+3086250,308625,Dhaka,Shariatpur,Damudya
+3086360,308636,Dhaka,Shariatpur,Gosairhat
+3086650,308665,Dhaka,Shariatpur,Naria
+3086690,308669,Dhaka,Shariatpur,Shariatpur Sadar
+3086940,308694,Dhaka,Shariatpur,Zanjira
+3089370,308937,Dhaka,Sherpur,Jhenaigati
+3089670,308967,Dhaka,Sherpur,Nakla
+3089700,308970,Dhaka,Sherpur,Nalitabari
+3089880,308988,Dhaka,Sherpur,Sherpur Sadar
+3089900,308990,Dhaka,Sherpur,Sreebardi
+3093090,309309,Dhaka,Tangail,Basail
+3093190,309319,Dhaka,Tangail,Bhuapur
+3093230,309323,Dhaka,Tangail,Delduar
+3093250,309325,Dhaka,Tangail,Dhanbari
+3093280,309328,Dhaka,Tangail,Ghatail
+3093380,309338,Dhaka,Tangail,Gopalpur
+3093470,309347,Dhaka,Tangail,Kalihati
+3093570,309357,Dhaka,Tangail,Madhupur
+3093660,309366,Dhaka,Tangail,Mirzapur
+3093760,309376,Dhaka,Tangail,Nagarpur
+3093850,309385,Dhaka,Tangail,Sakhipur
+3093950,309395,Dhaka,Tangail,Tangail Sadar
+4001080,400108,Khulna,Bagerhat,Bagerhat Sadar
+4001140,400114,Khulna,Bagerhat,Chitalmari
+4001340,400134,Khulna,Bagerhat,Fakirhat
+4001380,400138,Khulna,Bagerhat,Kachua
+4001560,400156,Khulna,Bagerhat,Mollahat
+4001580,400158,Khulna,Bagerhat,Mongla
+4001600,400160,Khulna,Bagerhat,Morrelganj
+4001730,400173,Khulna,Bagerhat,Rampal
+4001770,400177,Khulna,Bagerhat,Sarankhola
+4018070,401807,Khulna,Chuadanga,Alamdanga
+4018230,401823,Khulna,Chuadanga,Chuadanga Sadar
+4018310,401831,Khulna,Chuadanga,Damurhuda
+4018550,401855,Khulna,Chuadanga,Jiban Nagar
+4041040,404104,Khulna,Jessore,Abhaynagar
+4041090,404109,Khulna,Jessore,Bagher Para
+4041110,404111,Khulna,Jessore,Chaugachha
+4041230,404123,Khulna,Jessore,Jhikargachha
+4041380,404138,Khulna,Jessore,Keshabpur
+4041470,404147,Khulna,Jessore,Kotwali
+4041610,404161,Khulna,Jessore,Manirampur
+4041900,404190,Khulna,Jessore,Sharsha
+4044140,404414,Khulna,Jhenaidah,Harinakunda
+4044190,404419,Khulna,Jhenaidah,Jhenaidah Sadar
+4044330,404433,Khulna,Jhenaidah,Kaliganj
+4044420,404442,Khulna,Jhenaidah,Kotchandpur
+4044710,404471,Khulna,Jhenaidah,Maheshpur
+4044800,404480,Khulna,Jhenaidah,Shailkupa
+4047120,404712,Khulna,Khulna,Batiaghata
+4047170,404717,Khulna,Khulna,Dacope
+4047210,404721,Khulna,Khulna,Daulatpur
+4047300,404730,Khulna,Khulna,Dumuria
+4047400,404740,Khulna,Khulna,Dighalia
+4047450,404745,Khulna,Khulna,Khalishpur
+4047480,404748,Khulna,Khulna,Khan Jahan Ali
+4047510,404751,Khulna,Khulna,Khulna Sadar
+4047530,404753,Khulna,Khulna,Koyra
+4047640,404764,Khulna,Khulna,Paikgachha
+4047690,404769,Khulna,Khulna,Phultala
+4047750,404775,Khulna,Khulna,Rupsa
+4047850,404785,Khulna,Khulna,Sonadanga
+4047940,404794,Khulna,Khulna,Terokhada
+4050150,405015,Khulna,Kushtia,Bheramara
+4050390,405039,Khulna,Kushtia,Daulatpur
+4050630,405063,Khulna,Kushtia,Khoksa
+4050710,405071,Khulna,Kushtia,Kumarkhali
+4050790,405079,Khulna,Kushtia,Kushtia Sadar
+4050940,405094,Khulna,Kushtia,Mirpur
+4055570,405557,Khulna,Magura,Magura Sadar
+4055660,405566,Khulna,Magura,Mohammadpur
+4055850,405585,Khulna,Magura,Shalikha
+4055950,405595,Khulna,Magura,Sreepur
+4057470,405747,Khulna,Meherpur,Gangni
+4057600,405760,Khulna,Meherpur,Mujib Nagar
+4057870,405787,Khulna,Meherpur,Meherpur Sadar
+4065280,406528,Khulna,Narail,Kalia
+4065520,406552,Khulna,Narail,Lohagara
+4065760,406576,Khulna,Narail,Narail Sadar
+4087040,408704,Khulna,Satkhira,Assasuni
+4087250,408725,Khulna,Satkhira,Debhata
+4087430,408743,Khulna,Satkhira,Kalaroa
+4087470,408747,Khulna,Satkhira,Kaliganj
+4087820,408782,Khulna,Satkhira,Satkhira Sadar
+4087860,408786,Khulna,Satkhira,Shyamnagar
+4087900,408790,Khulna,Satkhira,Tala
+5010060,501006,Rajshahi,Bogra,Adamdighi
+5010200,501020,Rajshahi,Bogra,Bogra Sadar
+5010270,501027,Rajshahi,Bogra,Dhunat
+5010330,501033,Rajshahi,Bogra,Dhupchanchia
+5010400,501040,Rajshahi,Bogra,Gabtali
+5010540,501054,Rajshahi,Bogra,Kahaloo
+5010670,501067,Rajshahi,Bogra,Nandigram
+5010810,501081,Rajshahi,Bogra,Sariakandi
+5010850,501085,Rajshahi,Bogra,Shajahanpur
+5010880,501088,Rajshahi,Bogra,Sherpur
+5010940,501094,Rajshahi,Bogra,Shibganj
+5010950,501095,Rajshahi,Bogra,Sonatola
+5038130,503813,Rajshahi,Joypurhat,Akkelpur
+5038470,503847,Rajshahi,Joypurhat,Joypurhat Sadar
+5038580,503858,Rajshahi,Joypurhat,Kalai
+5038610,503861,Rajshahi,Joypurhat,Khetlal
+5038740,503874,Rajshahi,Joypurhat,Panchbibi
+5064030,506403,Rajshahi,Naogaon,Atrai
+5064060,506406,Rajshahi,Naogaon,Badalgachhi
+5064280,506428,Rajshahi,Naogaon,Dhamoirhat
+5064470,506447,Rajshahi,Naogaon,Manda
+5064500,506450,Rajshahi,Naogaon,Mahadebpur
+5064600,506460,Rajshahi,Naogaon,Naogaon Sadar
+5064690,506469,Rajshahi,Naogaon,Niamatpur
+5064750,506475,Rajshahi,Naogaon,Patnitala
+5064790,506479,Rajshahi,Naogaon,Porsha
+5064850,506485,Rajshahi,Naogaon,Raninagar
+5064860,506486,Rajshahi,Naogaon,Sapahar
+5069090,506909,Rajshahi,Natore,Bagati Para
+5069150,506915,Rajshahi,Natore,Baraigram
+5069410,506941,Rajshahi,Natore,Gurudaspur
+5069440,506944,Rajshahi,Natore,Lalpur
+5069630,506963,Rajshahi,Natore,Natore Sadar
+5069910,506991,Rajshahi,Natore,Singra
+5070180,507018,Rajshahi,Nawabganj,Bholahat
+5070370,507037,Rajshahi,Nawabganj,Gomastapur
+5070560,507056,Rajshahi,Nawabganj,Nachole
+5070660,507066,Rajshahi,Nawabganj,Nawabganj Sadar
+5070880,507088,Rajshahi,Nawabganj,Shibganj
+5076050,507605,Rajshahi,Pabna,Atgharia
+5076160,507616,Rajshahi,Pabna,Bera
+5076190,507619,Rajshahi,Pabna,Bhangura
+5076220,507622,Rajshahi,Pabna,Chatmohar
+5076330,507633,Rajshahi,Pabna,Faridpur
+5076390,507639,Rajshahi,Pabna,Ishwardi
+5076550,507655,Rajshahi,Pabna,Pabna Sadar
+5076720,507672,Rajshahi,Pabna,Santhia
+5076830,507683,Rajshahi,Pabna,Sujanagar
+5081100,508110,Rajshahi,Rajshahi,Bagha
+5081120,508112,Rajshahi,Rajshahi,Baghmara
+5081220,508122,Rajshahi,Rajshahi,Boalia
+5081250,508125,Rajshahi,Rajshahi,Charghat
+5081310,508131,Rajshahi,Rajshahi,Durgapur
+5081340,508134,Rajshahi,Rajshahi,Godagari
+5081400,508140,Rajshahi,Rajshahi,Matihar
+5081530,508153,Rajshahi,Rajshahi,Mohanpur
+5081720,508172,Rajshahi,Rajshahi,Paba
+5081820,508182,Rajshahi,Rajshahi,Puthia
+5081850,508185,Rajshahi,Rajshahi,Rajpara
+5081900,508190,Rajshahi,Rajshahi,Shah Makhdum
+5081940,508194,Rajshahi,Rajshahi,Tanore
+5088110,508811,Rajshahi,Sirajganj,Belkuchi
+5088270,508827,Rajshahi,Sirajganj,Chauhali
+5088440,508844,Rajshahi,Sirajganj,Kamarkhanda
+5088500,508850,Rajshahi,Sirajganj,Kazipur
+5088610,508861,Rajshahi,Sirajganj,Royganj
+5088670,508867,Rajshahi,Sirajganj,Shahjadpur
+5088780,508878,Rajshahi,Sirajganj,Sirajganj Sadar
+5088890,508889,Rajshahi,Sirajganj,Tarash
+5088940,508894,Rajshahi,Sirajganj,Ullah Para
+5527100,552710,Rangpur,Dinajpur,Birampur
+5527120,552712,Rangpur,Dinajpur,Birganj
+5527170,552717,Rangpur,Dinajpur,Biral
+5527210,552721,Rangpur,Dinajpur,Bochaganj
+5527300,552730,Rangpur,Dinajpur,Chirirbandar
+5527380,552738,Rangpur,Dinajpur,Fulbari
+5527430,552743,Rangpur,Dinajpur,Ghoraghat
+5527470,552747,Rangpur,Dinajpur,Hakimpur
+5527560,552756,Rangpur,Dinajpur,Kaharole
+5527600,552760,Rangpur,Dinajpur,Khansama
+5527640,552764,Rangpur,Dinajpur,Dinajpur Sadar
+5527690,552769,Rangpur,Dinajpur,Nawabganj
+5527770,552777,Rangpur,Dinajpur,Parbatipur
+5532210,553221,Rangpur,Gaibandha,Fulchhari
+5532240,553224,Rangpur,Gaibandha,Gaibandha Sadar
+5532300,553230,Rangpur,Gaibandha,Gobindaganj
+5532670,553267,Rangpur,Gaibandha,Palashbari
+5532820,553282,Rangpur,Gaibandha,Sadullapur
+5532880,553288,Rangpur,Gaibandha,Saghatta
+5532910,553291,Rangpur,Gaibandha,Sundarganj
+5549060,554906,Rangpur,Kurigram,Bhurungamari
+5549080,554908,Rangpur,Kurigram,Char Rajibpur
+5549090,554909,Rangpur,Kurigram,Chilmari
+5549180,554918,Rangpur,Kurigram,Phulbari
+5549520,554952,Rangpur,Kurigram,Kurigram Sadar
+5549610,554961,Rangpur,Kurigram,Nageshwari
+5549770,554977,Rangpur,Kurigram,Rajarhat
+5549790,554979,Rangpur,Kurigram,Raumari
+5549940,554994,Rangpur,Kurigram,Ulipur
+5552020,555202,Rangpur,Lalmonirhat,Aditmari
+5552330,555233,Rangpur,Lalmonirhat,Hatibandha
+5552390,555239,Rangpur,Lalmonirhat,Kaliganj
+5552550,555255,Rangpur,Lalmonirhat,Lalmonirhat Sadar
+5552700,555270,Rangpur,Lalmonirhat,Patgram
+5573120,557312,Rangpur,Nilphamari,Dimla
+5573150,557315,Rangpur,Nilphamari,Domar
+5573360,557336,Rangpur,Nilphamari,Jaldhaka
+5573450,557345,Rangpur,Nilphamari,Kishoreganj
+5573640,557364,Rangpur,Nilphamari,Nilphamari Sadar
+5573850,557385,Rangpur,Nilphamari,Saidpur
+5577040,557704,Rangpur,Panchagarh,Atwari
+5577250,557725,Rangpur,Panchagarh,Boda
+5577340,557734,Rangpur,Panchagarh,Debiganj
+5577730,557773,Rangpur,Panchagarh,Panchagarh Sadar
+5577900,557790,Rangpur,Panchagarh,Tentulia
+5585030,558503,Rangpur,Rangpur,Badarganj
+5585270,558527,Rangpur,Rangpur,Gangachara
+5585420,558542,Rangpur,Rangpur,Kaunia
+5585490,558549,Rangpur,Rangpur,Rangpur Sadar
+5585580,558558,Rangpur,Rangpur,Mitha Pukur
+5585730,558573,Rangpur,Rangpur,Pirgachha
+5585760,558576,Rangpur,Rangpur,Pirganj
+5585920,558592,Rangpur,Rangpur,Taraganj
+5594080,559408,Rangpur,Thakurgaon,Baliadangi
+5594510,559451,Rangpur,Thakurgaon,Haripur
+5594820,559482,Rangpur,Thakurgaon,Pirganj
+5594860,559486,Rangpur,Thakurgaon,Ranisankail
+5594940,559494,Rangpur,Thakurgaon,Thakurgaon Sadar
+6036020,603602,Sylhet,Habiganj,Ajmiriganj
+6036050,603605,Sylhet,Habiganj,Bahubal
+6036110,603611,Sylhet,Habiganj,Baniachong
+6036260,603626,Sylhet,Habiganj,Chunarughat
+6036440,603644,Sylhet,Habiganj,Habiganj Sadar
+6036680,603668,Sylhet,Habiganj,Lakhai
+6036710,603671,Sylhet,Habiganj,Madhabpur
+6036770,603677,Sylhet,Habiganj,Nabiganj
+6058140,605814,Sylhet,Maulvibazar,Barlekha
+6058350,605835,Sylhet,Maulvibazar,Juri
+6058560,605856,Sylhet,Maulvibazar,Kamalganj
+6058650,605865,Sylhet,Maulvibazar,Kulaura
+6058740,605874,Sylhet,Maulvibazar,Maulvi Bazar Sadar
+6058800,605880,Sylhet,Maulvibazar,Rajnagar
+6058830,605883,Sylhet,Maulvibazar,Sreemangal
+6090180,609018,Sylhet,Sunamganj,Bishwambarpur
+6090230,609023,Sylhet,Sunamganj,Chhatak
+6090270,609027,Sylhet,Sunamganj,Dakshin Sunamganj
+6090290,609029,Sylhet,Sunamganj,Derai
+6090320,609032,Sylhet,Sunamganj,Dharampasha
+6090330,609033,Sylhet,Sunamganj,Dowarabazar
+6090470,609047,Sylhet,Sunamganj,Jagannathpur
+6090500,609050,Sylhet,Sunamganj,Jamalganj
+6090860,609086,Sylhet,Sunamganj,Sulla
+6090890,609089,Sylhet,Sunamganj,Sunamganj Sadar
+6090920,609092,Sylhet,Sunamganj,Tahirpur
+6091080,609108,Sylhet,Sylhet,Balaganj
+6091170,609117,Sylhet,Sylhet,Beani Bazar
+6091200,609120,Sylhet,Sylhet,Bishwanath
+6091270,609127,Sylhet,Sylhet,Companiganj
+6091310,609131,Sylhet,Sylhet,Dakshin Surma
+6091350,609135,Sylhet,Sylhet,Fenchuganj
+6091380,609138,Sylhet,Sylhet,Golabganj
+6091410,609141,Sylhet,Sylhet,Gowainghat
+6091530,609153,Sylhet,Sylhet,Jaintiapur
+6091590,609159,Sylhet,Sylhet,Kanaighat
+6091620,609162,Sylhet,Sylhet,Sylhet Sadar
+6091940,609194,Sylhet,Sylhet,Zakiganj
